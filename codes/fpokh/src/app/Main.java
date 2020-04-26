@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
 	
-	static final String Directory = "D:/Toronto/";
+	static final String Directory = "C:/Users/hp/Documents/lesson/Semester 6/OKH/github/FP-OKH/Toronto";
 	
 	public static void main(String[] args) {
 		String crs = "";
